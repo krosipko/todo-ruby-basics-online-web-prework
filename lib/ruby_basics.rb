@@ -24,6 +24,6 @@ expert = "expert"
 return expert 
 end
 
-def pizza_party
-
+def pizza_party(choice = "cheese")
+  return choice
 end
